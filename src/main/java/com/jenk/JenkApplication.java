@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan
 @SpringBootApplication
 public class JenkApplication {
-
+//comment
     public static void main(String[] args) {
         SpringApplication.run(JenkApplication.class, args);
     }
